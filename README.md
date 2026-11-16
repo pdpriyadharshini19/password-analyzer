@@ -26,8 +26,7 @@ Requires Python 3.9+. Run the tests with `pip install pytest && pytest`.
 ## Web version
 `index.html` is a single-file web version with the same features: live strength analysis, password and passphrase suggestions (`crypto.getRandomValues`), and a reuse check that stores salted PBKDF2-SHA256 hashes in the browser's localStorage.
 
-- Live demo: https://<your-username>.github.io/password-analyzer/
-- Demo video: <paste your video link here>
+- Live demo: https://pdpriyadharshini19.github.io/password-analyzer/
 - Run locally: double-click `index.html`.
 
 Everything runs in the browser and nothing is sent to a server.
